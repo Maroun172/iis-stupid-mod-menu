@@ -1,0 +1,15 @@
+{
+  "id": "com.yourname.iistupidmod",
+  "name": "ii's Stupid Mod Menu",
+  "version": "1.0.0",
+  "author": "YourName",
+  "description": "A dumb mod menu with super jump and speed boost. Press M to toggle.",
+  "gameVersion": "ANY",
+  "dependencies": [],
+  "keywords": ["mod menu", "super jump", "speed boost", "gorilla tag"],
+  "icon": "icon.png",
+  "repo": "https://github.com/yourname/IIsStupidModMenu",
+  "downloadLink": "https://yourdomain.com/IIsStupidModMenu.dll",
+  "installMode": "plugin",
+  "entryPoint": "IIsStupidModPlugin"
+}
